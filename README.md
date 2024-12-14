@@ -1,0 +1,1 @@
+This is my portfolio website which is made with the use of Javascript, HTML, CSS, Bootstrap. It includes an about section, a skill section, a resume section, a services section, a certification section and a messaging section.
